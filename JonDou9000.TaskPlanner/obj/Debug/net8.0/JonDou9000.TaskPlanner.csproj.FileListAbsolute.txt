@@ -1,0 +1,15 @@
+C:\Users\Alina\OneDrive\Документи\GitHub\JonDou9000.TaskPlanner\bin\Debug\net8.0\JonDou9000.TaskPlanner.exe
+C:\Users\Alina\OneDrive\Документи\GitHub\JonDou9000.TaskPlanner\bin\Debug\net8.0\JonDou9000.TaskPlanner.deps.json
+C:\Users\Alina\OneDrive\Документи\GitHub\JonDou9000.TaskPlanner\bin\Debug\net8.0\JonDou9000.TaskPlanner.runtimeconfig.json
+C:\Users\Alina\OneDrive\Документи\GitHub\JonDou9000.TaskPlanner\bin\Debug\net8.0\JonDou9000.TaskPlanner.dll
+C:\Users\Alina\OneDrive\Документи\GitHub\JonDou9000.TaskPlanner\bin\Debug\net8.0\JonDou9000.TaskPlanner.pdb
+C:\Users\Alina\OneDrive\Документи\GitHub\JonDou9000.TaskPlanner\obj\Debug\net8.0\JonDou9000.TaskPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alina\OneDrive\Документи\GitHub\JonDou9000.TaskPlanner\obj\Debug\net8.0\JonDou9000.TaskPlanner.AssemblyInfoInputs.cache
+C:\Users\Alina\OneDrive\Документи\GitHub\JonDou9000.TaskPlanner\obj\Debug\net8.0\JonDou9000.TaskPlanner.AssemblyInfo.cs
+C:\Users\Alina\OneDrive\Документи\GitHub\JonDou9000.TaskPlanner\obj\Debug\net8.0\JonDou9000.TaskPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Alina\OneDrive\Документи\GitHub\JonDou9000.TaskPlanner\obj\Debug\net8.0\JonDou9000.TaskPlanner.sourcelink.json
+C:\Users\Alina\OneDrive\Документи\GitHub\JonDou9000.TaskPlanner\obj\Debug\net8.0\JonDou9000.TaskPlanner.dll
+C:\Users\Alina\OneDrive\Документи\GitHub\JonDou9000.TaskPlanner\obj\Debug\net8.0\refint\JonDou9000.TaskPlanner.dll
+C:\Users\Alina\OneDrive\Документи\GitHub\JonDou9000.TaskPlanner\obj\Debug\net8.0\JonDou9000.TaskPlanner.pdb
+C:\Users\Alina\OneDrive\Документи\GitHub\JonDou9000.TaskPlanner\obj\Debug\net8.0\JonDou9000.TaskPlanner.genruntimeconfig.cache
+C:\Users\Alina\OneDrive\Документи\GitHub\JonDou9000.TaskPlanner\obj\Debug\net8.0\ref\JonDou9000.TaskPlanner.dll
